@@ -24,7 +24,7 @@ This project includes:
 
 **🏗️ AWS Architecture Diagram**
 <p align="center">
-  <img src="https://github.com/Tanomichikki/Aurora-EC2-WebApp-AWS/blob/main/architecture-diagram-AWS-Aurora-connecting-Webapp.png" width="50%" />
+  <img src="https://github.com/Tanomichikki/AWS-Aurora-EC2-WebApp/blob/main/architecture-diagram-AWS-Aurora-connecting-Webapp.png" width="50%" />
 </p>
 
 
